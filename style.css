@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+}
+.header {
+    border-bottom: 2px solid rgb(90, 85, 85);
+    margin-bottom: 30px;
+    padding: 12px 0px;
+}
+.logo {
+    float: left;
+    color:rgb(90, 85, 85);
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.header .navigation {
+    text-align: right;
+}
+
+
+.header .navigation a {
+    color:rgb(90, 85, 85);
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 12px;
+    text-decoration: none;
+}
+.h1 {
+    font-size: 25px;
+}
+.info {
+    font-size: 17px;
+    font-style: italic;
+    color: slategray;
+}
+.article {
+   
+    margin: 0 auto;
+    padding: 1rem 2rem;
+    max-width: 48rem;
+}
